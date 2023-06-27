@@ -1,9 +1,8 @@
 [package]
-name = "eframe_template"
+name = "iron-coder-website"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
+authors = ["Carsten Thue-Bludworth <carstentb@protonmail.com>"]
 edition = "2021"
-rust-version = "1.65"
 
 
 [dependencies]
